@@ -1,0 +1,14 @@
+﻿{
+  "dependencies": {
+    "Microsoft.Extensions.Options.ConfigurationExtensions": "1.1.0",
+    "NETStandard.Library": "1.6.1",
+    "Google.Cloud.Storage.V1": "1.0.0-beta07",
+    "FlashFPService": "1.0.0-alpha-26217"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+  "version": "1.0.0-*"
+}
