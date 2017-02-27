@@ -4,15 +4,13 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
-using AudioManager.Services;
 using Google;
 using Google.Apis.Download;
-using Google.Apis.Storage.v1.Data;
 using Google.Apis.Upload;
 using Google.Cloud.Storage.V1;
 using Microsoft.Extensions.Options;
 
-namespace GCAudioManager.Services
+namespace AudioManager.Services
 {
     public class GcStorageOptions
     {

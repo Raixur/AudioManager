@@ -1,5 +1,4 @@
 ﻿using AudioManager.Services;
-using GCAudioManager.Services;
 using Microsoft.Extensions.Configuration;
 
 namespace Microsoft.Extensions.DependencyInjection
